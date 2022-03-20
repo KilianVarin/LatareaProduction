@@ -23,3 +23,11 @@ Maquetter et concevoir une application Responsive Design afin d'optimiser l'exp�
 Ces derniers auront la capacité de communiquer directement avec le préstataire via une interface intuitive en page d'accueil ci-dessous :
 
 ![latarea2](https://user-images.githubusercontent.com/83869281/159164338-d0d89936-9110-4eaa-a23d-c8baeb0835ef.PNG)
+
+<!-- CONTACT -->
+## Contact
+
+Varin Kilian https://www.linkedin.com/in/kilian-varin-847888211/
+
+
+
